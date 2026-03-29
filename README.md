@@ -95,6 +95,7 @@
 <p align="center">
   <img src="images//Воронка продаж и конверсия от первого шага.png" width="800"/>
 </p>
+
 | Этап | Пользователи | Конверсия | Отток |
 |------|--------------|-----------|-------|
 | **App Start** | 100,000 | 100% | - |
@@ -107,13 +108,16 @@
 <p align="center">
   <img src="images//Retention Rate по неделям.png" width="800"/>
 </p>
+
 **Лучшие когорты:**
 - **30.12.2019**: Retention Week 4 - 42%, LTV - 4,200 руб
 - **06.01.2020**: Retention Week 4 - 38%, LTV - 3,800 руб
 - **13.01.2020**: Retention Week 4 - 35%, LTV - 3,500 руб
 
 ### 4. RFM-сегментация
-![RFM Segmentation](images/rfm_segmentation.png)
+<p align="center">
+  <img src="images//Каналы привлечения по сегментам.png" width="800"/>
+</p>
 
 | Сегмент | Доля | ARPU | Retention | Действия |
 |---------|------|------|-----------|----------|
