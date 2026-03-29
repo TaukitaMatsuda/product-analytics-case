@@ -92,7 +92,7 @@
 | **Facebook Ads** | 8,901 | 14.2% | 965 руб | -12% | ❌ Низкая |
 
 ### 2. Воронка продаж
-![Funnel Analysis](images/funnel_analysis.png)
+![Funnel Analysis](images/Воронка продаж и конверсия от первого шага.png)
 
 | Этап | Пользователи | Конверсия | Отток |
 |------|--------------|-----------|-------|
@@ -103,7 +103,7 @@
 | **Purchase** | 14,200 | 57% | 43% |
 
 ### 3. Когортный анализ
-![Cohort Retention](images/cohort_retention.png)
+![Cohort Retention](images/Retention Rate по неделям.png)
 
 **Лучшие когорты:**
 - **30.12.2019**: Retention Week 4 - 42%, LTV - 4,200 руб
